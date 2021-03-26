@@ -151,13 +151,13 @@ footer{
 	text-align: left;
 }
 
-#meetingn h4{
+#meeting h4{
 	font-weight: bold;
-	color: white;
+	color: #FFFFFF;
 }
-#meetingn h6{
+#meeting h6{
 	font-weight: bold;
-	color: white;
+	color: #FFFFFF;
 }
 #meeting p{
 	color: var(--color-footer);
@@ -170,15 +170,14 @@ footer{
 	border-radius: 100%;
 	background-color: transparent;
 	display: block;
-	margin:auto;
 	color: var(--color-footer);
 	font-size: 50px;
 	text-align: left;
 }
+
 #sponsors {
 	background-color: #f5f5f5;
 	text-align: center;
-	
 }
 
 #sponsors h2 {
@@ -187,7 +186,6 @@ footer{
 	font-weight: 700;
 	color: var(--color-negro);
 	padding-bottom: 2%;
-	
 }
 
 #sponsors h4 {
@@ -196,6 +194,5 @@ footer{
 	font-size: 18px;
 	font-weight: bold;
 	color: #282d33;
-	
 }
 
